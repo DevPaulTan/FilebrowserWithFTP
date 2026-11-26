@@ -1,12 +1,16 @@
 # Files + FTP (RG35XX Plus)
 
+## ⬇️ Download
+
+**[Click here for the latest version](https://github.com/DevPaulTan/FilebrowserWithFTP/releases/latest)**, then under **Assets** click `FilesFTP-vX.X.X.zip` to download it.
+
+1. Unzip it. Inside is an `APPS` folder.
+2. Copy everything inside `APPS` into `Roms/APPS` on your SD card.
+3. Start the app from **App Center** on your device.
+
 Two-pane file manager with a built-in FTP server, so files can be copied
 between a PC (or phone) and the handheld over Wi-Fi instead of moving the SD
 card back and forth.
-
-## Install
-Copy `dist/APPS/FilesFTP.sh` and the `dist/APPS/FilesFTP/` folder into the SD
-card's `Roms/APPS`. Start **FilesFTP** from App Center.
 
 ## Buttons
 | Button | Files screen |
