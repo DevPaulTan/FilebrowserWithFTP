@@ -1,0 +1,16 @@
+# build output (ready-to-run zips go to GitHub Releases instead)
+build/
+dist/
+*.o
+*.zip
+
+# personal runtime data and logs - never commit
+*.log
+log.txt
+settings.cfg
+controls.cfg
+buttons.cfg
+progress.txt
+data/
+downloads/
+cache/
